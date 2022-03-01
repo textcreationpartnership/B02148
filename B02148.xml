@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Earl of Danby vindicated: in reflections upon a paper intituled, Some reflections upon the E. of Danby, in relation to the murder of Sir Edmund-bury Godfry. In a letter to a friend, / from Mr. Christian.</title>
+            <author>Christian, Edward.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02148</idno>
+            <idno type="STC">Wing C3936B</idno>
+            <idno type="STC">ESTC R173840</idno>
+            <idno type="EEBO-CITATION">53298997</idno>
+            <idno type="OCLC">ocm 53298997</idno>
+            <idno type="VID">179774</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02148)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179774)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2802:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Earl of Danby vindicated: in reflections upon a paper intituled, Some reflections upon the E. of Danby, in relation to the murder of Sir Edmund-bury Godfry. In a letter to a friend, / from Mr. Christian.</title>
+                  <author>Christian, Edward.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Freeman Collins,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: Edw. Christian.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Godfrey, Edmund Berry, --  Sir, 1621-1678 --  Death and burial.</term>
+               <term>Leeds, Thomas Osborne, --  Duke of, 1631-1712</term>
+               <term>Popish Plot, 1678 --  Early works to 1800.</term>
+               <term>Murder --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb n="1" facs="tcp:179774:1" rendition="simple:additions"/>
+            <p>The Earl of DANBY VINDICATED: IN REFLECTIONS UPON A PAPER INTITULED, <hi>Some</hi> REFLECTIONS <hi>upon the E. of</hi> DANBY, <hi>in relation to the Murder of Sir</hi> Edmund-bury Godfrey.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <head>In a Letter to a Friend, from Mr. <hi>Chriſtian.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Will not ſtay much upon thoſe Reflections in relation to the Earl of <hi>Danby,</hi> becauſe I doubt not but God will clear his Lordſhips Innocencie in due time, to the ſhame of his Enemies, and to the expoſing thoſe, by whoſe in<g ref="char:EOLhyphen"/>ſatiable Malice his great Worth and Honour is calumni<g ref="char:EOLhyphen"/>ated to the Parliament and Kingdom.</p>
+            <p>Onely I hope no man can fail in his Obſervation what Sect of men his Lordſhip is beholding to for their good-wills, who knew they muſt deſtroy not onely Kings, but their great Mini<g ref="char:EOLhyphen"/>ſters of State, before they can compleat their Bloudy Reforma<g ref="char:EOLhyphen"/>tions. For it is well known, not onely to Me and others who have had the honour of ſerving that Lord, but even to the worſt
+<pb n="2" facs="tcp:179774:2"/>of his Enemies, who are acquainted with him, (if they will confeſs Truth) that no man was ever a greater Aſſertor of the Church of <hi>England,</hi> (which is the beſt Bulwark againſt Po<g ref="char:EOLhyphen"/>pery) nor any man more Conſtant both in his own Devotions, and in the care of ſeeing them duely performed in his Family.</p>
+            <p>A little time (when men will but have patience to be truely informed) will ſerve to wipe off ſuch Scandals from ſo eminent and ſo good a man: But one ſo inconſiderable as I am, may ſuf<g ref="char:EOLhyphen"/>fer under ſo foul and falſe an Aſperſion, if I ſhould not vindi<g ref="char:EOLhyphen"/>cate my ſelf againſt it; beſides that by the falſity of that part which concerns me, Men will judge of the Truth both of that, and the reſt of thoſe ſcandalous and falſe Libels which are diſ<g ref="char:EOLhyphen"/>pers'd every day, not onely againſt the Earl of <hi>Danby,</hi> but againſt the King himſelf and his Government.</p>
+            <p>The Author of that fore-ſaid Libel would have done well, if he could have concealed his Religion, as well as his Name, that he might have got ſome little belief in the World: but although they be workers of darkneſs, I hope their works will at laſt, all come to light.</p>
+            <p>And upon condition that <hi>J. B.</hi> the Author would appear, and might be hanged in caſe he doth not prove what he ſays againſt Mr. <hi>Chriſtian,</hi> (whom he ſays took water with Sir <hi>Ed<g ref="char:EOLhyphen"/>mundbury Godfrey</hi> at <hi>Whitehall</hi> the day of his being Murthered) Mr. <hi>Chriſtian</hi> will ſubmit himſelf to that Judgment which <hi>J. B.</hi> deſerves, if either he, or any man elſe can prove Mr. <hi>Chriſtian</hi> to be within Threeſcore miles of <hi>London</hi> that day; Mr. <hi>Chri<g ref="char:EOLhyphen"/>ſtian</hi> being that very day, the whole day, and night following, at <hi>Stamford</hi> in <hi>Lincolnſhire,</hi> as will be ſufficiently teſtified.</p>
+            <q>Note that this Libel was very diligently diſperſed the laſt Seſſions of Parliament in Writing, to divers Members of that Houſe; and par<g ref="char:EOLhyphen"/>ticularly to Mr. <hi>T.</hi> a worthy Member thereof. The perſon that deli<g ref="char:EOLhyphen"/>vered the ſame at the Lobby of the Houſe of Commons, aſſerting to him, <hi>That there were Witneſſes at a Houſe in</hi> Arundel <hi>Buildings, that could prove the truth of the ſame.</hi> At which particular Houſe the Witneſſes were lodged that came from <hi>St. Omers,</hi> to prove Mr. <hi>Oates</hi> not in <hi>England,</hi> &amp;c.</q>
+            <p>
+               <hi>J. B.</hi> deſires in Gods name, that this may be examined; but he muſt come in the Devils name to prove it: and juſt
+<pb n="3" facs="tcp:179774:2"/>ſuch Truths upon Examination will be found, the Earl of <hi>Dan<g ref="char:EOLhyphen"/>by</hi>'s having had any diſcourſe with Sir <hi>Edmundbury Godfrey</hi> in ſome weeks before his death, and his being at the Lady <hi>Cokes</hi> Chamber, either at two a clock, or any other time, (al<g ref="char:EOLhyphen"/>though I have heard he did go through <hi>Hambden-houſe,</hi> where the Lady <hi>Coke</hi> then Lodged, about eleven of the clock that day) nor was he ſeen after that hour at the Earl of <hi>Danby</hi>'s Houſe by any I can hear of, but the Author <hi>J. B.</hi>
+            </p>
+            <p>With the ſame truth is the Earl of <hi>Danby</hi> ſaid to have Meetings with Doctor <hi>Tongue</hi> and <hi>Oates</hi> at <hi>Fox-hall;</hi> and yet <hi>J. B.</hi> draws a great many Concluſions from thoſe things, be<g ref="char:EOLhyphen"/>ing (as he ſaith) certain; and takes upon him to abuſe the Houſe of Commons, by ſaying, <hi>This is the true cauſe of their adhering to their Votes.</hi>
+            </p>
+            <p>I muſt confeſs, that at firſt ſight, I wondred to think how a man who deſigns like <hi>J. B.</hi> to be thought a good Proteſtant, and concern'd for the ſafety of the Kingdom, could make this Relation conſiſt, without blemiſh to the Reputation of Mr. <hi>Bed<g ref="char:EOLhyphen"/>low,</hi> and Mr. <hi>Praunce,</hi> and others, by whoſe teſtimony ſo ma<g ref="char:EOLhyphen"/>ny were Condemned and have ſuffered: but before I had read it half through, his deſign was as plain to deſtroy their Evidence, and make that paſs for nothing, as it was to blaſt the Honour and Reputation of the Earl; although he would fain ſeem to ſay ſomething in their excuſe, by making it worſe, (viz.) <hi>That we muſt not altogether rely upon what the Evidence ſay, becauſe a great deal of it is by hear-ſay:</hi> which is to put a worthy Character upon the Judge and Jury.</p>
+            <p>I ſhould believe this <hi>J. B.</hi> to be Author alſo of that pre<g ref="char:EOLhyphen"/>tended Paper, Intituled, <hi>An Anſwer to the Objections againſt the Earl of</hi> Danby; but (to give him his due) it is too ſilly, and would be thought to have ſome pitty and good nature in it: but I am confident, he is the Author of the Print Intituled, <hi>A perfect Catalogue of all the Lords Treaſurers to this preſent year, with particular Obſervations on</hi> Thomas <hi>Earl of</hi> Danby, becauſe of the falſity and Malice it ſpeaks againſt this Earl; and yet in ſpight of his teeth, he hath ſaid more for him in calling him <hi>A great Royalliſt,</hi> than he can do for ſome he has endea<g ref="char:EOLhyphen"/>voured to commend.</p>
+            <pb n="1" facs="tcp:179774:3" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="2" facs="tcp:179774:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="3" facs="tcp:179774:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="4" facs="tcp:179774:5"/>
+            <p>And as to this Lords Gentility, as it is a great deal more Antient than he would have it thought, (although he allows it as long a date, as divers great men, and ſome Lord Treaſurers can pretend to) ſo his Eſtate when made Lord Treaſurer, was known to be better than any of the greater number of the Lord Treaſurers for one hundred years before him have brought into the Kings Service; although many of them have left their Places with much greater Eſtates than he hath done.</p>
+            <p>As wickedneſs is ever put under the diſguiſe of Religion and Piety, ſo <hi>J. B.</hi> ends his Paper with very good Prayers and Thoughts, which I fear are leaſt in his heart, <hi>(viz.) That none will eſcape from Gods vengeance, but ſuch as from their Souls love Truth, and preſerve their hearts from Malice, and hands from ſeeking Innocent Blood.</hi> Whatever <hi>J. B.</hi> thinks, I am intirely of that opinion: and that both he and they may Repent, and turn to the Truth, is the Prayer of</p>
+            <closer>
+               <signed>EDW. CHRISTIAN.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>
+               <hi>ANY Perſon whatſoever that ſhall produce the Author</hi> J. B. <hi>that writ and occaſioned the afore<g ref="char:EOLhyphen"/>recited Libel to be deſperſed, ſhall have Twenty Guinies reward.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Freeman Collins,</hi> 1679.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
